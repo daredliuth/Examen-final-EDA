@@ -1,0 +1,2 @@
+gcc -Wall -std=c99 -o main.out main.c Object.c CDLL.c List.c Stack.c Queue.c
+
